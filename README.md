@@ -40,7 +40,7 @@ O objetivo deste projeto é **aprendizado prático em Blue Team / SOC**, monitor
 - Validação de conectividade de rede
 - Acesso ao dashboard web
 
-📸 *Prints do boot da VM e configuração de IP*
+![Wazuh Dashboard Overview](screenshots/7.png)
 
 ---
 
@@ -48,7 +48,7 @@ O objetivo deste projeto é **aprendizado prático em Blue Team / SOC**, monitor
 - Login no dashboard via navegador
 - Verificação do status inicial (sem agentes registrados)
 
-📸 *Print da tela Overview do Wazuh*
+![Wazuh Dashboard Overview](screenshots/8.png)
 
 ---
 
@@ -57,7 +57,7 @@ O objetivo deste projeto é **aprendizado prático em Blue Team / SOC**, monitor
 - Registro do agente no Wazuh Server
 - Validação da comunicação
 
-📸 *Print do agente Windows conectado*
+![Wazuh Dashboard Overview](screenshots/9.png)
 
 ---
 
@@ -67,7 +67,7 @@ O objetivo deste projeto é **aprendizado prático em Blue Team / SOC**, monitor
 - Registro no manager
 - Inicialização do serviço
 
-📸 *Print do processo de instalação no Kali Linux*
+![Wazuh Dashboard Overview](screenshots/6.png)
 
 ---
 
@@ -79,7 +79,7 @@ Foram realizados testes práticos para validação do SIEM, incluindo:
 - Avaliações de configuração (CIS Benchmark)
 - Monitoramento de eventos em tempo real
 
-📸 *Prints da aba Threat Hunting e Events*
+![Wazuh Dashboard Overview](screenshots/4.png)
 
 ---
 
